@@ -2,4 +2,3 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Bound_Flasher/Bound_Flasher.
 INFO: [VRFC 10-311] analyzing module bound_flasher
 INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDL/Bound_Flasher/Bound_Flasher.srcs/sim_1/new/tb_bound_flasher.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module tb_bound_flasher
-WARNING: [VRFC 10-756] identifier HALF_CYCLE is used before its declaration [D:/HDL/Bound_Flasher/Bound_Flasher.srcs/sim_1/new/tb_bound_flasher.v:23]
